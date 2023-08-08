@@ -1,1 +1,1 @@
-# NiveaPlaywrightOsman
+# NiveaPlaywrightAutomation
